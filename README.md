@@ -8,3 +8,8 @@ Zostanie zforkowane repo, powiązane z kontem w organizacji
 2. Prześledź historię commitów, ściągnij starsze wersje commitów i znajdź tę, która działa poprawnie
 3. Uzupełnij testy, które zostały usunięte
 4. Do repo z classroom pushnij poprawioną wersję z adnotacją w README które commity były potrzebne
+
+### Zmiany:
+
+1. Z 'Optimization of the code' został przywrócony znak równości przy 'right'
+2. Z 'refactoring of tests' zostały przywrócone brakujące testy
